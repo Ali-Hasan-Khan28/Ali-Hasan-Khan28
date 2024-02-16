@@ -8,4 +8,4 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Questions-green.svg)]([https://stackoverflow.com/questions/tagged/your-tag-here](https://stackoverflow.com/users/19986303/ali-hasan-khan))
 [![ProfileViews](https://komarev.com/ghpvc/?username=Ali-Hasan-Khan28&color=ff69b4&style=flat)](https://komarev.com/ghpvc/?username=Ali-Hasan-Khan28)
 
-
+:wave:Hello, I am a machine learning engineer currently involved in diverse projects encompassing deep learning, computer vision, and natural language processing. One of my notable achievements is securing the runner-up position in the Microsoft Imagine Cup. I have a profound appreciation for the entire software development process, from design to implementation. My primary emphasis lies in optimizing performance and crafting efficient workflows for a variety of machine learning and deep learning models.
