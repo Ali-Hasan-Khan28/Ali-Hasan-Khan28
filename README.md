@@ -10,11 +10,8 @@
 
 :wave:Hello, I am a machine learning engineer currently involved in diverse projects encompassing deep learning, computer vision, and natural language processing. One of my notable achievements is securing the runner-up position in the Microsoft Imagine Cup. I have a profound appreciation for the entire software development process, from design to implementation. My primary emphasis lies in optimizing performance and crafting efficient workflows for a variety of machine learning and deep learning models.
 
-<div align="center">
-    <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
-    <br>
-        
-<img src="https://metrics.lecoq.io/insights/Ali-Hasan-Khan28.jpg">
-    </details>
-</div>
+<!-- Add your GitHub stats -->
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Hasan-Khan28&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
