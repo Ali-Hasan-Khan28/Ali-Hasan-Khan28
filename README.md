@@ -10,8 +10,20 @@
 
 :wave:Hello, I am a machine learning engineer currently involved in diverse projects encompassing deep learning, computer vision, and natural language processing. One of my notable achievements is securing the runner-up position in the Microsoft Imagine Cup. I have a profound appreciation for the entire software development process, from design to implementation. My primary emphasis lies in optimizing performance and crafting efficient workflows for a variety of machine learning and deep learning models.
 
-<!-- Add your GitHub stats -->
+
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Hasan-Khan28&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<div align="center">
+    <details>
+        <summary><b>GitHub Metrics👇🏻</b></summary>
+    <br>
+</div>
 
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Deep Learning](https://img.shields.io/static/v1?label=&message=Deep_Learning&color=3776AB&logo=Deep_Learningn&logoColor=FFFFFF)](https://www.python.org/) | [![Deep-Globe-Road-Extraction-Using-Deep-Learning](https://img.shields.io/static/v1?label=&message=Deep-Globe-Road-Extraction-Using-Deep-Learning&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Deep-Globe-Road-Extraction-Using-Deep-Learning) |
+| [![Machine Learning](https://img.shields.io/static/v1?label=&message=Machine-Learning&color=009688&logo=Machine-Learning&logoColor=FFFFFF)](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2) | [![Taiwenese-Bankruptcy-Prediction](https://img.shields.io/static/v1?label=&message=Taiwenese-Bankruptcy-Prediction&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Taiwenese-Bankruptcy-Prediction) | 
+| [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
