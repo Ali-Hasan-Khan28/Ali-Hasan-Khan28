@@ -11,19 +11,52 @@
 :wave:Hello, I am a machine learning engineer currently involved in diverse projects encompassing deep learning, computer vision, and natural language processing. One of my notable achievements is securing the runner-up position in the Microsoft Imagine Cup. I have a profound appreciation for the entire software development process, from design to implementation. My primary emphasis lies in optimizing performance and crafting efficient workflows for a variety of machine learning and deep learning models.
 
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Hasan-Khan28&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div align="center">
     <details>
         <summary><b>GitHub Metrics👇🏻</b></summary>
     <br>
 </div>
 
+
+
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Deep Learning](https://img.shields.io/static/v1?label=&message=Deep_Learning&color=3776AB&logo=Deep_Learningn&logoColor=FFFFFF)](https://www.python.org/) | [![Deep-Globe-Road-Extraction-Using-Deep-Learning](https://img.shields.io/static/v1?label=&message=Deep-Globe-Road-Extraction-Using-Deep-Learning&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Deep-Globe-Road-Extraction-Using-Deep-Learning) |
-| [![Machine Learning](https://img.shields.io/static/v1?label=&message=Machine-Learning&color=009688&logo=Machine-Learning&logoColor=FFFFFF)](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2) | [![Taiwenese-Bankruptcy-Prediction](https://img.shields.io/static/v1?label=&message=Taiwenese-Bankruptcy-Prediction&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Taiwenese-Bankruptcy-Prediction) | 
-| [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
+| [![Deep Learning](https://img.shields.io/static/v1?label=&message=Deep_Learning&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![Deep-Globe-Road-Extraction-Using-Deep-Learning](https://img.shields.io/static/v1?label=&message=Deep-Globe-Road-Extraction-Using-Deep-Learning&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Deep-Globe-Road-Extraction-Using-Deep-Learning) |
+| [![Machine Learning](https://img.shields.io/static/v1?label=&message=Machine-Learning&color=009688&logo=Python&logoColor=FFFFFF)](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2) | [![Taiwenese-Bankruptcy-Prediction](https://img.shields.io/static/v1?label=&message=Taiwenese-Bankruptcy-Prediction&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Taiwenese-Bankruptcy-Prediction) | 
+| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=4EAA25&logo=Flask%20Bash&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/3.0.x/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=The-PDF-Mania&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/The-PDF-Mania) |
+| [![Algorithm](https://img.shields.io/static/v1?label=&message=Algorithms&color=4EAA25&logo=thealgorithms%20Bash&logoColor=FFFFFF)](https://www.geeksforgeeks.org/genetic-algorithms/) | [![Genetic Algorithm](https://img.shields.io/static/v1?label=&message=Genetic-Algorithm-for-Timetable-Generation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Genetic-Algorithm-for-Timetable-Generation) [![Genetic Algorithm](https://img.shields.io/static/v1?label=&message=GRAPH-AND-TREES&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/GRAPH-AND-TREES) |
+| [![Games](https://img.shields.io/static/v1?label=&message=Game&color=4EAA25&logo=gameloft%20Bash&logoColor=FFFFFF)](https://readthedocs.org/projects/tictactoe/downloads/pdf/latest/) | [![Tic Tac Toe](https://img.shields.io/static/v1?label=&message=TicTacToe&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Tic-Tac-Toe) |
+| [![Mangement System](https://img.shields.io/static/v1?label=&message=Mangement-System&color=4EAA25&logo=amazoniam%20Bash&logoColor=FFFFFF)](https://inspecco.com/training/management-system-documentation/) | [![Mess Mangement System](https://img.shields.io/static/v1?label=&message=Mess-Mangement-System&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Ali-Hasan-Khan28/Mess-Mangemnet-System) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Hasan-Khan28&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
